@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/covid/static/css/main.a31fdd64.chunk.css",
+    "main.js": "/covid/static/js/main.f1ac5962.chunk.js",
+    "main.js.map": "/covid/static/js/main.f1ac5962.chunk.js.map",
+    "runtime-main.js": "/covid/static/js/runtime-main.34c6de72.js",
+    "runtime-main.js.map": "/covid/static/js/runtime-main.34c6de72.js.map",
+    "static/css/2.de424728.chunk.css": "/covid/static/css/2.de424728.chunk.css",
+    "static/js/2.fa083dd8.chunk.js": "/covid/static/js/2.fa083dd8.chunk.js",
+    "static/js/2.fa083dd8.chunk.js.map": "/covid/static/js/2.fa083dd8.chunk.js.map",
+    "index.html": "/covid/index.html",
+    "precache-manifest.366ceaab9118d6f210d752e318967b2b.js": "/covid/precache-manifest.366ceaab9118d6f210d752e318967b2b.js",
+    "service-worker.js": "/covid/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/covid/static/css/2.de424728.chunk.css.map",
+    "static/css/main.a31fdd64.chunk.css.map": "/covid/static/css/main.a31fdd64.chunk.css.map",
+    "static/js/2.fa083dd8.chunk.js.LICENSE.txt": "/covid/static/js/2.fa083dd8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34c6de72.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.fa083dd8.chunk.js",
+    "static/css/main.a31fdd64.chunk.css",
+    "static/js/main.f1ac5962.chunk.js"
+  ]
+}

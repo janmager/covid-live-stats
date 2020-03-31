@@ -1,0 +1,10 @@
+.flagDiv img{
+    max-height: 20px;
+    padding-right: 8px;
+}
+a{
+    color: inherit;
+}
+a:hover{
+    color: inherit;
+}
