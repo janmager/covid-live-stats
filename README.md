@@ -1,5 +1,4 @@
 # covid info center
-[Check LIVE](https://janmager.github.io/covid)
 
 preview img 
 
